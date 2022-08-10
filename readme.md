@@ -2,7 +2,7 @@
 
 ## Affiliate Webseite für Check24
 
-\*Aktueller Stand: 10.08.2022 - Die Seite ist zu 90% Fertig, kleinere Bugfixes + Deployment Setup folgen.
+\*Aktueller Stand: 10.08.2022 - Die Seite ist zu 90% Fertig, kleinere Bugfixes + Deployment Setup folgen.<br />
 \*\*Hinweis: Eine ElectronApp für verschiedene Endgeräte folgt außerdem.
 
 Tariffo ist eine Vergleichswebseite [Partner Check 24 ](https://www.check24.net/?pid=203550/) für folgende Bereiche:
