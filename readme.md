@@ -33,5 +33,5 @@ Tariffo ist eine Vergleichswebseite [Partner Check 24 ](https://www.check24.net/
 
 ## Kontakt
 
-Falls fragen bestehen, oder den vollen Quelltext erhalten möchte, können mir gerne via [christopher@craftconversions.de](mailto:christopher@craftconversions.de)
+Falls fragen bestehen, oder du den volen Quelltext erhalten möchtest (Aufwandsentschädigung), kann mich gerne via  [christopher@craftconversions.de](mailto:christopher@craftconversions.de)
 erreichen! Vielen dank!
