@@ -23,6 +23,11 @@ Tariffo ist eine Vergleichswebseite [Partner Check 24 ](https://www.check24.net/
 - MYSQL Datenbank
 - [Silverstripe-blog ](https://github.com/silverstripe/silverstripe-blog/)
 
+## Kontakt
+
+Falls fragen bestehen, oder du den volen Quelltext erhalten möchtest (Aufwandsentschädigung), kann mich gerne via  [christopher@craftconversions.de](mailto:christopher@craftconversions.de)
+erreichen! Vielen dank!
+
 ## Vorschau Startseite
 
 ![Alt text](https://craftconversions.de/wp-content/uploads/2022/08/fffffff.jpg "Startseite")
